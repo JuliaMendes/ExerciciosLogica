@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "Troca de valores A e B"
 //  
 //  
 

@@ -1,9 +1,5 @@
-Algoritmo "semnome"
-// 
-//  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 7/18/2020
+Algoritmo "Número antecessor"
+
 Var
 valor: inteiro
 
