@@ -1,7 +1,9 @@
 Algoritmo "Número antecessor"
+//  
+//  
 
 Var
-valor: inteiro
+   valor: inteiro
 
 Inicio
   escreval ("Digite um número")

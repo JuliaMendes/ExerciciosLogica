@@ -1,7 +1,9 @@
 Algoritmo "Percentual de votos"
+//  
+//  
 
 Var
- eleitores,votosnulos,votosbrancos,votosvalidos,totalnulos,totalbrancos, totalvalidos:real
+   eleitores,votosnulos,votosbrancos,votosvalidos,totalnulos,totalbrancos, totalvalidos:real
 
 
 Inicio

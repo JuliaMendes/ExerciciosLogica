@@ -12,7 +12,7 @@ Inicio
      b <- a
      a <- c
 
-escreval ("A=", a)
-escreval ("B=", b)
+     escreval ("A=", a)
+     escreval ("B=", b)
 
 Fimalgoritmo

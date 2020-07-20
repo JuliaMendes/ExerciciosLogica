@@ -1,13 +1,15 @@
 Algoritmo "Transformar Celsius para Fahrenheit"
+//  
+//  
 // 
 
 Var
-f,conversao:real
+   f,conversao:real
 Inicio
-Escreval("Escreva a temperatura em Fahrenheit")
-leia(f)
-conversao <-((f-32)/9)*5
- escreval(f,"F para Celsius é",conversao,"C")
+   escreval("Escreva a temperatura em Fahrenheit")
+   leia(f)
+   conversao <-((f-32)/9)*5
+   escreval(f,"F para Celsius é",conversao,"C")
 
 
 Fimalgoritmo
